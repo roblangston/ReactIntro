@@ -1,2 +1,0 @@
-# ReactIntro
-Created with CodeSandbox
